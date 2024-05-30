@@ -29,7 +29,5 @@ Pastikan Anda telah menginstal dependensi yang diperlukan. Disarankan untuk meng
 
 4. **Cara menggunakan 
     python3 crawl_tool.py -d https://example.com -k katakunci1 katakunci2 dst
-
-		  SALAM 		HARMONI 
-=============================================================================
-			KeyCrawler v1.0 
+			KeyCrawler v1.0
+   			 SALAM HARMONI
