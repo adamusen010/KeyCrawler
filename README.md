@@ -31,4 +31,4 @@ Pastikan Anda telah menginstal dependensi yang diperlukan. Disarankan untuk meng
     python3 crawl_tool.py -d https://example.com -k katakunci1 katakunci2 dst
 
 
-       *>>>>>>* KeyCrawler v1.0 || SALAM HARMONI *<<<<<<*
+   *>>>>>>* KeyCrawler v1.0 || SALAM HARMONI *<<<<<<*
