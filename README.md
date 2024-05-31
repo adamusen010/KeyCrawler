@@ -27,7 +27,7 @@ Pastikan Anda telah menginstal dependensi yang diperlukan. Disarankan untuk meng
 3. **Instal Dependensi**:
     pip install -r dependensi.txt 
 
-4. **Cara menggunakan 
+4. **Cara menggunakan**; 
     python3 crawl_tool.py -d https://example.com -k katakunci1 katakunci2 dst
 
 
